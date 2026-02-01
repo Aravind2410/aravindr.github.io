@@ -1,0 +1,27 @@
+body{
+  font-family: Arial, sans-serif;
+  background:#f7f7f7;
+  margin:0;
+}
+
+.container{
+  max-width:900px;
+  margin:auto;
+  background:white;
+  padding:40px;
+}
+
+h1{margin-bottom:5px}
+.tagline{color:gray}
+
+.links a{
+  margin-right:15px;
+  text-decoration:none;
+  color:#0077cc;
+}
+
+h2{
+  margin-top:35px;
+  border-bottom:1px solid #ddd;
+  padding-bottom:5px;
+}
