@@ -2,7 +2,7 @@
 
 This repository hosts my personal portfolio website built with GitHub Pages.
 
-**Portfolio** [Click here to view](https://Aravind2410.github.io/aravindr.github.io/)
+**Portfolio** : [Click here to view](https://Aravind2410.github.io/aravindr.github.io/)
 
 
 The site includes my MSc Data Science projects, IEEE publication, skills, and contact details.
